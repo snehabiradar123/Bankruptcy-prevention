@@ -15,7 +15,7 @@ The data set includes the following variables:
 6.	operating_risk: 0=low risk, 0.5=medium risk, 1=high risk.
 7.	class: bankruptcy, non-bankruptcy (target variable).
 
-8.	Milestone :task performed
+8.	task performed
    
 1. Data set Details & EDA		
 2. Model Building	
