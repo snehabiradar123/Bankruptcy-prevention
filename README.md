@@ -17,9 +17,9 @@ The data set includes the following variables:
 
 8.	Milestone :task performed
    
-Data set Details & EDA		
-Model Building	
-Model Evaluation	
+1. Data set Details & EDA		
+2. Model Building	
+3. Model Evaluation	
 
 
    
