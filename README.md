@@ -19,7 +19,9 @@ The data set includes the following variables:
    
 1. Data set Details & EDA		
 2. Model Building	
-3. Model Evaluation	
+3. Model Evaluation
+4. Conclusion:
+By leveraging data science techniques, this project aims to develop predictive models for bankruptcy prevention, providing stakeholders with valuable insights and tools to mitigate financial risks and ensure the stability of businesses. The project's findings can inform decision-making processes and contribute to the development of proactive strategies for maintaining financial health and sustainability.
 
 
    
